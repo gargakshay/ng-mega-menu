@@ -1,0 +1,23 @@
+.bold{
+    font-weight: bold;
+}
+
+.vertical-divider {
+  border-top-width: 0;
+  border-right-width: 1px;
+  border-right-style: solid;
+  min-width: 200px;
+}
+
+.custom-menu > .mat-menu-content{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.custom-menu.mat-menu-panel {
+    max-width: none;
+}
+
+.custom-list-item {
+    color: gray;
+}
